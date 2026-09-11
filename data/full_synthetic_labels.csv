@@ -1,0 +1,631 @@
+tweet_id,text,intent,escalate
+10000,@AppleSupport is anyone else's iPhone 15 battery health tanking after ios 18.0? mine dropped to 80%,battery_performance,False
+10010,"@AppleSupport my iPad Pro battery is dying so fast after the update, its unusable now this is the third time im contacting you about this, absolutely done",battery_performance,True
+10020,"@AppleSupport battery percentage jumps around randomly on my iPhone 14, one sec its 40 next its 12",battery_performance,False
+10030,"@AppleSupport my iPhone 15 battery is dying so fast after the update, its unusable now",battery_performance,False
+10040,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 14, help this is the third time im contacting you about this, absolutely done",battery_performance,True
+10050,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help",battery_performance,False
+10060,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 15, help",battery_performance,False
+10070,@AppleSupport is anyone else's iPhone 14 battery health tanking after ios 17.2? mine dropped to 76%,battery_performance,False
+10080,"@AppleSupport iPhone 13 won't hold a charge anymore, had it last month only",battery_performance,False
+10090,"@AppleSupport battery percentage jumps around randomly on my iPhone SE, one sec its 40 next its 12",battery_performance,False
+10100,"@AppleSupport is anyone else's iPhone SE battery health tanking after ios 17.5.1? mine dropped to 82% i'm going to leave apple over this, genuinely furious",battery_performance,True
+10110,"@AppleSupport my iPhone SE battery is dying so fast after the update, its unusable now",battery_performance,False
+10120,"@AppleSupport iPhone 14 won't hold a charge anymore, had it 2 years ago only",battery_performance,False
+10130,@AppleSupport is anyone else's Apple Watch battery health tanking after ios 17.5.1? mine dropped to 81% my lawyer will be in touch if this isn't resolved today,battery_performance,True
+10140,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 13, help",battery_performance,False
+10150,@AppleSupport is anyone else's MacBook Air battery health tanking after ios 17.4? mine dropped to 82%,battery_performance,False
+10160,"@AppleSupport Apple Watch won't hold a charge anymore, had it 2 years ago only",battery_performance,False
+10170,"@AppleSupport my MacBook Air battery is dying so fast after the update, its unusable now",battery_performance,False
+10180,"@AppleSupport battery percentage jumps around randomly on my iPhone 13, one sec its 40 next its 12 i want to speak to an actual human being, not a bot",battery_performance,True
+10190,"@AppleSupport iPhone 14 won't hold a charge anymore, had it 2 years ago only",battery_performance,False
+10200,@AppleSupport is anyone else's iPad Air battery health tanking after ios 18.0? mine dropped to 82%,battery_performance,False
+10210,"@AppleSupport battery percentage jumps around randomly on my iPhone 13, one sec its 40 next its 12",battery_performance,False
+10220,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my MacBook Air, help",battery_performance,False
+10230,"@AppleSupport MacBook Air won't hold a charge anymore, had it 3 weeks ago only",battery_performance,False
+10240,@AppleSupport is anyone else's MacBook Air battery health tanking after ios 17.2? mine dropped to 67%,battery_performance,False
+10250,"@AppleSupport battery percentage jumps around randomly on my iPhone 13, one sec its 40 next its 12",battery_performance,False
+10260,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help",battery_performance,False
+10270,"@AppleSupport my iPhone 15 battery is dying so fast after the update, its unusable now",battery_performance,False
+10280,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help this is the third time im contacting you about this, absolutely done",battery_performance,True
+10290,"@AppleSupport iPad Pro won't hold a charge anymore, had it 3 weeks ago only",battery_performance,False
+10300,@AppleSupport is anyone else's iPad Air battery health tanking after ios 18.1? mine dropped to 73%,battery_performance,False
+10310,"@AppleSupport battery percentage jumps around randomly on my Apple Watch, one sec its 40 next its 12",battery_performance,False
+10320,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 13, help",battery_performance,False
+10330,@AppleSupport is anyone else's iPhone SE battery health tanking after ios 17.2? mine dropped to 77%,battery_performance,False
+10340,"@AppleSupport battery percentage jumps around randomly on my iPhone SE, one sec its 40 next its 12",battery_performance,False
+10350,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Air, help",battery_performance,False
+10360,@AppleSupport is anyone else's iPad Pro battery health tanking after ios 18.0? mine dropped to 64%,battery_performance,False
+10370,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my Apple Watch, help",battery_performance,False
+10380,@AppleSupport is anyone else's iPhone 15 battery health tanking after ios 17.5.1? mine dropped to 64%,battery_performance,False
+10390,"@AppleSupport iPhone 15 won't hold a charge anymore, had it 2 years ago only",battery_performance,False
+10400,"@AppleSupport my MacBook Air battery is dying so fast after the update, its unusable now",battery_performance,False
+10410,"@AppleSupport battery percentage jumps around randomly on my iPad Air, one sec its 40 next its 12",battery_performance,False
+10420,@AppleSupport is anyone else's iPhone 13 battery health tanking after ios 17.4? mine dropped to 68%,battery_performance,False
+10430,"@AppleSupport battery percentage jumps around randomly on my iPhone SE, one sec its 40 next its 12",battery_performance,False
+10440,"@AppleSupport my iPad Air battery is dying so fast after the update, its unusable now my lawyer will be in touch if this isn't resolved today",battery_performance,True
+10450,"@AppleSupport my iPhone SE battery is dying so fast after the update, its unusable now",battery_performance,False
+10460,"@AppleSupport my iPad Pro battery is dying so fast after the update, its unusable now",battery_performance,False
+10470,"@AppleSupport battery percentage jumps around randomly on my iPad Pro, one sec its 40 next its 12",battery_performance,False
+10480,"@AppleSupport my iPhone 13 battery is dying so fast after the update, its unusable now",battery_performance,False
+10490,"@AppleSupport iPhone SE won't hold a charge anymore, had it last month only",battery_performance,False
+10500,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my Apple Watch, help i want to speak to an actual human being, not a bot",battery_performance,True
+10510,"@AppleSupport my Apple Watch battery is dying so fast after the update, its unusable now",battery_performance,False
+10520,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Air, help",battery_performance,False
+10530,"@AppleSupport my iPad Air battery is dying so fast after the update, its unusable now",battery_performance,False
+10540,"@AppleSupport battery percentage jumps around randomly on my iPad Pro, one sec its 40 next its 12",battery_performance,False
+10550,"@AppleSupport battery percentage jumps around randomly on my iPhone 13, one sec its 40 next its 12",battery_performance,False
+10560,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my Apple Watch, help",battery_performance,False
+10570,"@AppleSupport battery percentage jumps around randomly on my Apple Watch, one sec its 40 next its 12",battery_performance,False
+10580,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 14, help",battery_performance,False
+10590,"@AppleSupport battery percentage jumps around randomly on my iPhone 13, one sec its 40 next its 12",battery_performance,False
+10600,"@AppleSupport my iPhone 14 battery is dying so fast after the update, its unusable now",battery_performance,False
+10610,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Pro, help",battery_performance,False
+10620,"@AppleSupport battery percentage jumps around randomly on my iPad Pro, one sec its 40 next its 12",battery_performance,False
+10630,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 13, help",battery_performance,False
+10640,"@AppleSupport iPad Air won't hold a charge anymore, had it 2 years ago only",battery_performance,False
+10650,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Air, help",battery_performance,False
+10660,@AppleSupport is anyone else's Apple Watch battery health tanking after ios 17.4? mine dropped to 66% reported this to consumer protection already,battery_performance,True
+10670,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Air, help",battery_performance,False
+10680,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 13, help",battery_performance,False
+10690,"@AppleSupport MacBook Air won't hold a charge anymore, had it 6 months ago only",battery_performance,False
+10700,"@AppleSupport my iPad Air battery is dying so fast after the update, its unusable now",battery_performance,False
+10710,@AppleSupport is anyone else's iPhone 13 battery health tanking after ios 17.5.1? mine dropped to 63%,battery_performance,False
+10720,"@AppleSupport MacBook Air won't hold a charge anymore, had it 3 weeks ago only",battery_performance,False
+10730,"@AppleSupport battery percentage jumps around randomly on my iPad Pro, one sec its 40 next its 12",battery_performance,False
+10740,@AppleSupport is anyone else's iPhone SE battery health tanking after ios 17.2? mine dropped to 77%,battery_performance,False
+10750,@AppleSupport is anyone else's iPad Air battery health tanking after ios 18.0? mine dropped to 80%,battery_performance,False
+10760,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 14, help",battery_performance,False
+10770,"@AppleSupport iPhone 15 won't hold a charge anymore, had it a year ago only reported this to consumer protection already",battery_performance,True
+10780,@AppleSupport is anyone else's iPad Air battery health tanking after ios 18.1? mine dropped to 66%,battery_performance,False
+10790,@AppleSupport is anyone else's MacBook Air battery health tanking after ios 17.2? mine dropped to 75% reported this to consumer protection already,battery_performance,True
+10800,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 14, help",battery_performance,False
+10810,"@AppleSupport my iPhone 15 battery is dying so fast after the update, its unusable now i'm going to leave apple over this, genuinely furious",battery_performance,True
+10820,"@AppleSupport iPad Pro won't hold a charge anymore, had it a year ago only",battery_performance,False
+10830,"@AppleSupport iPhone 14 won't hold a charge anymore, had it 6 months ago only",battery_performance,False
+10840,"@AppleSupport my iPad Air battery is dying so fast after the update, its unusable now",battery_performance,False
+10850,"@AppleSupport is anyone else's iPad Pro battery health tanking after ios 18.0? mine dropped to 68% i want to speak to an actual human being, not a bot",battery_performance,True
+10860,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help i'm going to leave apple over this, genuinely furious",battery_performance,True
+10870,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help",battery_performance,False
+10880,"@AppleSupport my MacBook Air battery is dying so fast after the update, its unusable now i want to speak to an actual human being, not a bot",battery_performance,True
+10890,"@AppleSupport iPad Pro won't hold a charge anymore, had it a year ago only",battery_performance,False
+10900,@AppleSupport after updating iPhone 14 to 18.1 apps keep crashing constantly,software_update_issue,False
+10910,"@AppleSupport ios 18.0 update bricked my iPhone 15, stuck on apple logo",software_update_issue,False
+10920,"@AppleSupport ios 18.0 update bricked my iPhone 15, stuck on apple logo",software_update_issue,False
+10930,"@AppleSupport cant update to ios 17.2, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+10940,"@AppleSupport ios 17.5.1 update bricked my iPhone 14, stuck on apple logo",software_update_issue,False
+10950,"@AppleSupport cant update to ios 17.5.1, keeps saying 'unable to verify update' @AppleSupport i'm going to leave apple over this, genuinely furious",software_update_issue,True
+10960,"@AppleSupport update has been 'preparing' for 3 hours now on my iPad Pro, is this normal",software_update_issue,False
+10970,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 13, is this normal",software_update_issue,False
+10980,"@AppleSupport ios 17.5.1 update bricked my MacBook Air, stuck on apple logo",software_update_issue,False
+10990,@AppleSupport after updating iPhone 13 to 18.1 apps keep crashing constantly,software_update_issue,False
+11000,"@AppleSupport update has been 'preparing' for 3 hours now on my Apple Watch, is this normal",software_update_issue,False
+11010,@AppleSupport after updating iPhone 15 to 18.1 apps keep crashing constantly,software_update_issue,False
+11020,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False
+11030,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 14, is this normal",software_update_issue,False
+11040,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False
+11050,"@AppleSupport ios 17.5.1 update bricked my iPad Air, stuck on apple logo",software_update_issue,False
+11060,"@AppleSupport cant update to ios 17.4, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11070,"@AppleSupport ios 17.5.1 update bricked my Apple Watch, stuck on apple logo",software_update_issue,False
+11080,"@AppleSupport ios 17.2 update bricked my iPhone 14, stuck on apple logo",software_update_issue,False
+11090,"@AppleSupport cant update to ios 17.2, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11100,"@AppleSupport cant update to ios 18.1, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11110,@AppleSupport after updating MacBook Air to 17.4 apps keep crashing constantly my lawyer will be in touch if this isn't resolved today,software_update_issue,True
+11120,"@AppleSupport update has been 'preparing' for 3 hours now on my MacBook Air, is this normal",software_update_issue,False
+11130,"@AppleSupport ios 17.2 update bricked my Apple Watch, stuck on apple logo",software_update_issue,False
+11140,"@AppleSupport update has been 'preparing' for 3 hours now on my iPad Air, is this normal",software_update_issue,False
+11150,@AppleSupport after updating Apple Watch to 18.0 apps keep crashing constantly,software_update_issue,False
+11160,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False
+11170,"@AppleSupport cant update to ios 17.2, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11180,@AppleSupport lost all my photos after the 18.1 update??? this is insane,software_update_issue,False
+11190,"@AppleSupport ios 18.0 update bricked my Apple Watch, stuck on apple logo this is the third time im contacting you about this, absolutely done",software_update_issue,True
+11200,@AppleSupport lost all my photos after the 17.2 update??? this is insane,software_update_issue,False
+11210,@AppleSupport lost all my photos after the 18.0 update??? this is insane reported this to consumer protection already,software_update_issue,True
+11220,"@AppleSupport ios 17.4 update bricked my iPhone 15, stuck on apple logo",software_update_issue,False
+11230,@AppleSupport after updating iPhone 14 to 18.0 apps keep crashing constantly,software_update_issue,False
+11240,"@AppleSupport update has been 'preparing' for 3 hours now on my Apple Watch, is this normal this is the third time im contacting you about this, absolutely done",software_update_issue,True
+11250,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone SE, is this normal my lawyer will be in touch if this isn't resolved today",software_update_issue,True
+11260,"@AppleSupport ios 18.1 update bricked my iPhone SE, stuck on apple logo",software_update_issue,False
+11270,@AppleSupport after updating iPhone 14 to 17.2 apps keep crashing constantly,software_update_issue,False
+11280,"@AppleSupport ios 17.4 update bricked my iPhone 14, stuck on apple logo",software_update_issue,False
+11290,"@AppleSupport cant update to ios 17.5.1, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11300,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False
+11310,@AppleSupport after updating iPhone 13 to 17.4 apps keep crashing constantly,software_update_issue,False
+11320,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False
+11330,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 14, is this normal",software_update_issue,False
+11340,@AppleSupport after updating MacBook Air to 17.2 apps keep crashing constantly,software_update_issue,False
+11350,@AppleSupport lost all my photos after the 17.5.1 update??? this is insane,software_update_issue,False
+11360,@AppleSupport after updating Apple Watch to 18.0 apps keep crashing constantly my lawyer will be in touch if this isn't resolved today,software_update_issue,True
+11370,"@AppleSupport ios 17.5.1 update bricked my MacBook Air, stuck on apple logo",software_update_issue,False
+11380,"@AppleSupport lost all my photos after the 17.4 update??? this is insane this is the third time im contacting you about this, absolutely done",software_update_issue,True
+11390,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 14, is this normal",software_update_issue,False
+11400,"@AppleSupport ios 18.1 update bricked my MacBook Air, stuck on apple logo",software_update_issue,False
+11410,"@AppleSupport cant update to ios 17.2, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11420,"@AppleSupport ios 18.1 update bricked my iPhone 13, stuck on apple logo",software_update_issue,False
+11430,"@AppleSupport lost all my photos after the 18.1 update??? this is insane this is the third time im contacting you about this, absolutely done",software_update_issue,True
+11440,"@AppleSupport ios 18.0 update bricked my Apple Watch, stuck on apple logo",software_update_issue,False
+11450,"@AppleSupport ios 17.4 update bricked my iPad Air, stuck on apple logo",software_update_issue,False
+11460,@AppleSupport after updating Apple Watch to 18.1 apps keep crashing constantly reported this to consumer protection already,software_update_issue,True
+11470,"@AppleSupport cant update to ios 17.4, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11480,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone SE, is this normal",software_update_issue,False
+11490,@AppleSupport after updating iPad Pro to 18.0 apps keep crashing constantly,software_update_issue,False
+11500,"@AppleSupport ios 17.2 update bricked my iPhone 14, stuck on apple logo",software_update_issue,False
+11510,"@AppleSupport cant update to ios 17.2, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11520,@AppleSupport lost all my photos after the 18.0 update??? this is insane,software_update_issue,False
+11530,"@AppleSupport ios 18.0 update bricked my iPad Air, stuck on apple logo",software_update_issue,False
+11540,@AppleSupport after updating Apple Watch to 17.5.1 apps keep crashing constantly,software_update_issue,False
+11550,@AppleSupport after updating MacBook Air to 18.1 apps keep crashing constantly,software_update_issue,False
+11560,"@AppleSupport ios 18.1 update bricked my Apple Watch, stuck on apple logo",software_update_issue,False
+11570,"@AppleSupport cant update to ios 18.1, keeps saying 'unable to verify update' @AppleSupport my lawyer will be in touch if this isn't resolved today",software_update_issue,True
+11580,"@AppleSupport ios 17.5.1 update bricked my iPhone 13, stuck on apple logo",software_update_issue,False
+11590,@AppleSupport lost all my photos after the 18.1 update??? this is insane,software_update_issue,False
+11600,"@AppleSupport cant update to ios 17.4, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11610,@AppleSupport after updating MacBook Air to 17.2 apps keep crashing constantly,software_update_issue,False
+11620,@AppleSupport after updating iPad Air to 18.0 apps keep crashing constantly,software_update_issue,False
+11630,"@AppleSupport cant update to ios 17.5.1, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11640,"@AppleSupport after updating iPhone 15 to 18.0 apps keep crashing constantly i'm going to leave apple over this, genuinely furious",software_update_issue,True
+11650,@AppleSupport after updating iPad Air to 18.1 apps keep crashing constantly,software_update_issue,False
+11660,"@AppleSupport cant update to ios 17.4, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11670,"@AppleSupport cant update to ios 17.5.1, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11680,"@AppleSupport ios 17.4 update bricked my iPad Air, stuck on apple logo i'm going to leave apple over this, genuinely furious",software_update_issue,True
+11690,@AppleSupport after updating iPhone SE to 17.2 apps keep crashing constantly my lawyer will be in touch if this isn't resolved today,software_update_issue,True
+11700,@AppleSupport lost all my photos after the 17.4 update??? this is insane,software_update_issue,False
+11710,@AppleSupport after updating iPad Air to 17.2 apps keep crashing constantly,software_update_issue,False
+11720,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone SE, is this normal",software_update_issue,False
+11730,@AppleSupport after updating iPhone 13 to 18.0 apps keep crashing constantly,software_update_issue,False
+11740,"@AppleSupport cant update to ios 17.2, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11750,@AppleSupport after updating MacBook Air to 18.0 apps keep crashing constantly,software_update_issue,False
+11760,"@AppleSupport ios 17.2 update bricked my MacBook Air, stuck on apple logo",software_update_issue,False
+11770,"@AppleSupport update has been 'preparing' for 3 hours now on my MacBook Air, is this normal",software_update_issue,False
+11780,"@AppleSupport cant update to ios 18.0, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11790,"@AppleSupport cant update to ios 18.1, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False
+11800,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+11810,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+11820,"@AppleSupport screen went black mid call and Apple Watch hasn't turned back on since i want to speak to an actual human being, not a bot",device_not_turning_on,True
+11830,"@AppleSupport dropped my iPhone 15 in water and now it's not responding, please help",device_not_turning_on,False
+11840,"@AppleSupport dropped my iPad Air in water and now it's not responding, please help",device_not_turning_on,False
+11850,"@AppleSupport dropped my iPhone 15 in water and now it's not responding, please help",device_not_turning_on,False
+11860,"@AppleSupport dropped my iPad Pro in water and now it's not responding, please help",device_not_turning_on,False
+11870,"@AppleSupport my iPhone 14 won't turn on at all, screen is completely black",device_not_turning_on,False
+11880,@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since,device_not_turning_on,False
+11890,"@AppleSupport dropped my iPhone SE in water and now it's not responding, please help",device_not_turning_on,False
+11900,"@AppleSupport my iPhone 15 won't turn on at all, screen is completely black",device_not_turning_on,False
+11910,@AppleSupport screen went black mid call and iPhone SE hasn't turned back on since,device_not_turning_on,False
+11920,"@AppleSupport dropped my MacBook Air in water and now it's not responding, please help",device_not_turning_on,False
+11930,"@AppleSupport my iPad Air won't turn on at all, screen is completely black",device_not_turning_on,False
+11940,"@AppleSupport dropped my iPad Pro in water and now it's not responding, please help",device_not_turning_on,False
+11950,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black",device_not_turning_on,False
+11960,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black",device_not_turning_on,False
+11970,"@AppleSupport iPhone 14 died and now wont charge or turn on, tried different cables my lawyer will be in touch if this isn't resolved today",device_not_turning_on,True
+11980,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black",device_not_turning_on,False
+11990,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help",device_not_turning_on,False
+12000,"@AppleSupport my Apple Watch won't turn on at all, screen is completely black i'm going to leave apple over this, genuinely furious",device_not_turning_on,True
+12010,@AppleSupport screen went black mid call and iPhone 14 hasn't turned back on since,device_not_turning_on,False
+12020,"@AppleSupport my iPhone 14 won't turn on at all, screen is completely black",device_not_turning_on,False
+12030,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12040,@AppleSupport screen went black mid call and iPhone SE hasn't turned back on since reported this to consumer protection already,device_not_turning_on,True
+12050,"@AppleSupport dropped my iPhone 15 in water and now it's not responding, please help",device_not_turning_on,False
+12060,@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since,device_not_turning_on,False
+12070,@AppleSupport screen went black mid call and iPhone SE hasn't turned back on since,device_not_turning_on,False
+12080,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help",device_not_turning_on,False
+12090,"@AppleSupport dropped my Apple Watch in water and now it's not responding, please help",device_not_turning_on,False
+12100,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help this is the third time im contacting you about this, absolutely done",device_not_turning_on,True
+12110,"@AppleSupport iPad Air died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12120,@AppleSupport screen went black mid call and iPad Pro hasn't turned back on since,device_not_turning_on,False
+12130,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help",device_not_turning_on,False
+12140,"@AppleSupport Apple Watch died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12150,"@AppleSupport iPhone 14 died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12160,"@AppleSupport iPad Pro died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12170,"@AppleSupport MacBook Air died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12180,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12190,@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since,device_not_turning_on,False
+12200,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black",device_not_turning_on,False
+12210,@AppleSupport screen went black mid call and iPhone 14 hasn't turned back on since,device_not_turning_on,False
+12220,"@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since i want to speak to an actual human being, not a bot",device_not_turning_on,True
+12230,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black my lawyer will be in touch if this isn't resolved today",device_not_turning_on,True
+12240,"@AppleSupport iPad Air died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12250,"@AppleSupport my MacBook Air won't turn on at all, screen is completely black",device_not_turning_on,False
+12260,"@AppleSupport my iPhone SE won't turn on at all, screen is completely black",device_not_turning_on,False
+12270,"@AppleSupport dropped my iPhone 15 in water and now it's not responding, please help",device_not_turning_on,False
+12280,"@AppleSupport dropped my iPad Pro in water and now it's not responding, please help",device_not_turning_on,False
+12290,@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since,device_not_turning_on,False
+12300,"@AppleSupport dropped my MacBook Air in water and now it's not responding, please help",device_not_turning_on,False
+12310,"@AppleSupport my iPad Pro won't turn on at all, screen is completely black",device_not_turning_on,False
+12320,@AppleSupport screen went black mid call and iPad Air hasn't turned back on since,device_not_turning_on,False
+12330,"@AppleSupport dropped my iPhone 15 in water and now it's not responding, please help",device_not_turning_on,False
+12340,"@AppleSupport dropped my iPhone 15 in water and now it's not responding, please help",device_not_turning_on,False
+12350,"@AppleSupport iPad Pro died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12360,"@AppleSupport iPad Pro died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12370,@AppleSupport screen went black mid call and iPhone 13 hasn't turned back on since,device_not_turning_on,False
+12380,@AppleSupport screen went black mid call and iPhone SE hasn't turned back on since,device_not_turning_on,False
+12390,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help my lawyer will be in touch if this isn't resolved today",device_not_turning_on,True
+12400,@AppleSupport screen went black mid call and iPhone 13 hasn't turned back on since,device_not_turning_on,False
+12410,"@AppleSupport iPhone 13 died and now wont charge or turn on, tried different cables i want to speak to an actual human being, not a bot",device_not_turning_on,True
+12420,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black reported this to consumer protection already",device_not_turning_on,True
+12430,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables this is the third time im contacting you about this, absolutely done",device_not_turning_on,True
+12440,"@AppleSupport dropped my iPhone 14 in water and now it's not responding, please help",device_not_turning_on,False
+12450,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12460,"@AppleSupport my MacBook Air won't turn on at all, screen is completely black",device_not_turning_on,False
+12470,"@AppleSupport dropped my Apple Watch in water and now it's not responding, please help",device_not_turning_on,False
+12480,"@AppleSupport screen went black mid call and iPhone 13 hasn't turned back on since i'm going to leave apple over this, genuinely furious",device_not_turning_on,True
+12490,"@AppleSupport my iPad Pro won't turn on at all, screen is completely black",device_not_turning_on,False
+12500,"@AppleSupport dropped my iPad Air in water and now it's not responding, please help",device_not_turning_on,False
+12510,"@AppleSupport iPhone 13 died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12520,"@AppleSupport dropped my iPhone 14 in water and now it's not responding, please help",device_not_turning_on,False
+12530,"@AppleSupport dropped my Apple Watch in water and now it's not responding, please help",device_not_turning_on,False
+12540,@AppleSupport screen went black mid call and iPad Pro hasn't turned back on since,device_not_turning_on,False
+12550,@AppleSupport screen went black mid call and iPhone SE hasn't turned back on since,device_not_turning_on,False
+12560,@AppleSupport screen went black mid call and iPhone 13 hasn't turned back on since,device_not_turning_on,False
+12570,"@AppleSupport iPad Air died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12580,"@AppleSupport my Apple Watch won't turn on at all, screen is completely black",device_not_turning_on,False
+12590,"@AppleSupport dropped my iPhone 15 in water and now it's not responding, please help",device_not_turning_on,False
+12600,@AppleSupport screen went black mid call and iPad Air hasn't turned back on since,device_not_turning_on,False
+12610,@AppleSupport screen went black mid call and Apple Watch hasn't turned back on since,device_not_turning_on,False
+12620,@AppleSupport screen went black mid call and iPhone SE hasn't turned back on since,device_not_turning_on,False
+12630,@AppleSupport screen went black mid call and MacBook Air hasn't turned back on since,device_not_turning_on,False
+12640,"@AppleSupport Apple Watch died and now wont charge or turn on, tried different cables i want to speak to an actual human being, not a bot",device_not_turning_on,True
+12650,"@AppleSupport MacBook Air died and now wont charge or turn on, tried different cables reported this to consumer protection already",device_not_turning_on,True
+12660,"@AppleSupport dropped my Apple Watch in water and now it's not responding, please help",device_not_turning_on,False
+12670,"@AppleSupport dropped my iPhone SE in water and now it's not responding, please help i want to speak to an actual human being, not a bot",device_not_turning_on,True
+12680,"@AppleSupport iPad Pro died and now wont charge or turn on, tried different cables",device_not_turning_on,False
+12690,"@AppleSupport my iPhone 15 won't turn on at all, screen is completely black",device_not_turning_on,False
+12700,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+12710,"@AppleSupport cant sign into icloud on my Apple Watch, keeps rejecting my password even after reset",account_login_icloud,False
+12720,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12730,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12740,"@AppleSupport cant sign into icloud on my Apple Watch, keeps rejecting my password even after reset",account_login_icloud,False
+12750,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12760,"@AppleSupport two factor code never arrives when i try to log into my apple id this is the third time im contacting you about this, absolutely done",account_login_icloud,True
+12770,"@AppleSupport cant sign into icloud on my iPhone SE, keeps rejecting my password even after reset",account_login_icloud,False
+12780,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12790,"@AppleSupport cant sign into icloud on my MacBook Air, keeps rejecting my password even after reset",account_login_icloud,False
+12800,"@AppleSupport cant sign into icloud on my Apple Watch, keeps rejecting my password even after reset",account_login_icloud,False
+12810,"@AppleSupport cant sign into icloud on my iPhone 14, keeps rejecting my password even after reset",account_login_icloud,False
+12820,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+12830,@AppleSupport someone else is signed into my icloud and i cant remove them from my MacBook Air,account_login_icloud,False
+12840,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12850,"@AppleSupport cant sign into icloud on my iPhone SE, keeps rejecting my password even after reset",account_login_icloud,False
+12860,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPad Pro,account_login_icloud,False
+12870,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+12880,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12890,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12900,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+12910,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPad Air,account_login_icloud,False
+12920,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+12930,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12940,"@AppleSupport cant sign into icloud on my Apple Watch, keeps rejecting my password even after reset",account_login_icloud,False
+12950,"@AppleSupport cant sign into icloud on my iPad Pro, keeps rejecting my password even after reset",account_login_icloud,False
+12960,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+12970,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+12980,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",account_login_icloud,False
+12990,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPhone 13,account_login_icloud,False
+13000,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13010,"@AppleSupport two factor code never arrives when i try to log into my apple id i'm going to leave apple over this, genuinely furious",account_login_icloud,True
+13020,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset",account_login_icloud,False
+13030,"@AppleSupport cant sign into icloud on my iPhone 15, keeps rejecting my password even after reset",account_login_icloud,False
+13040,"@AppleSupport cant sign into icloud on my iPhone 15, keeps rejecting my password even after reset i want to speak to an actual human being, not a bot",account_login_icloud,True
+13050,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset i want to speak to an actual human being, not a bot",account_login_icloud,True
+13060,"@AppleSupport cant sign into icloud on my MacBook Air, keeps rejecting my password even after reset",account_login_icloud,False
+13070,"@AppleSupport locked out of my apple id, it says my account is disabled i'm going to leave apple over this, genuinely furious",account_login_icloud,True
+13080,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13090,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13100,"@AppleSupport cant sign into icloud on my iPhone 14, keeps rejecting my password even after reset",account_login_icloud,False
+13110,"@AppleSupport two factor code never arrives when i try to log into my apple id this is the third time im contacting you about this, absolutely done",account_login_icloud,True
+13120,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPhone 13,account_login_icloud,False
+13130,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13140,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPhone SE reported this to consumer protection already,account_login_icloud,True
+13150,"@AppleSupport two factor code never arrives when i try to log into my apple id this is the third time im contacting you about this, absolutely done",account_login_icloud,True
+13160,"@AppleSupport cant sign into icloud on my Apple Watch, keeps rejecting my password even after reset",account_login_icloud,False
+13170,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13180,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13190,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",account_login_icloud,False
+13200,"@AppleSupport cant sign into icloud on my MacBook Air, keeps rejecting my password even after reset",account_login_icloud,False
+13210,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13220,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",account_login_icloud,False
+13230,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13240,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13250,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13260,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13270,"@AppleSupport cant sign into icloud on my iPhone 14, keeps rejecting my password even after reset",account_login_icloud,False
+13280,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13290,@AppleSupport two factor code never arrives when i try to log into my apple id my lawyer will be in touch if this isn't resolved today,account_login_icloud,True
+13300,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPhone 13,account_login_icloud,False
+13310,"@AppleSupport cant sign into icloud on my iPhone 15, keeps rejecting my password even after reset",account_login_icloud,False
+13320,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13330,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13340,@AppleSupport someone else is signed into my icloud and i cant remove them from my Apple Watch,account_login_icloud,False
+13350,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset",account_login_icloud,False
+13360,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13370,"@AppleSupport locked out of my apple id, it says my account is disabled i want to speak to an actual human being, not a bot",account_login_icloud,True
+13380,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset",account_login_icloud,False
+13390,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13400,"@AppleSupport cant sign into icloud on my MacBook Air, keeps rejecting my password even after reset i want to speak to an actual human being, not a bot",account_login_icloud,True
+13410,@AppleSupport someone else is signed into my icloud and i cant remove them from my MacBook Air my lawyer will be in touch if this isn't resolved today,account_login_icloud,True
+13420,@AppleSupport someone else is signed into my icloud and i cant remove them from my Apple Watch,account_login_icloud,False
+13430,@AppleSupport two factor code never arrives when i try to log into my apple id my lawyer will be in touch if this isn't resolved today,account_login_icloud,True
+13440,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",account_login_icloud,False
+13450,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13460,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset",account_login_icloud,False
+13470,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13480,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13490,"@AppleSupport two factor code never arrives when i try to log into my apple id i'm going to leave apple over this, genuinely furious",account_login_icloud,True
+13500,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13510,@AppleSupport two factor code never arrives when i try to log into my apple id my lawyer will be in touch if this isn't resolved today,account_login_icloud,True
+13520,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False
+13530,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13540,"@AppleSupport two factor code never arrives when i try to log into my apple id i want to speak to an actual human being, not a bot",account_login_icloud,True
+13550,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPhone 14 reported this to consumer protection already,account_login_icloud,True
+13560,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",account_login_icloud,False
+13570,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13580,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13590,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False
+13600,"@AppleSupport is my iPhone 13 still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False
+13610,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13620,"@AppleSupport is my iPad Air still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False
+13630,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying i'm going to leave apple over this, genuinely furious",warranty_repair_request,True
+13640,"@AppleSupport is my iPad Air still covered under applecare, bought it 6 months ago",warranty_repair_request,False
+13650,"@AppleSupport want to book a repair for my iPhone 15, nearest store is always fully booked",warranty_repair_request,False
+13660,"@AppleSupport how much would it cost to fix a cracked screen on my Apple Watch, still under warranty?",warranty_repair_request,False
+13670,"@AppleSupport is my iPhone 13 still covered under applecare, bought it last month",warranty_repair_request,False
+13680,"@AppleSupport how much would it cost to fix a cracked screen on my MacBook Air, still under warranty?",warranty_repair_request,False
+13690,"@AppleSupport is my iPad Pro still covered under applecare, bought it last month",warranty_repair_request,False
+13700,"@AppleSupport how much would it cost to fix a cracked screen on my MacBook Air, still under warranty?",warranty_repair_request,False
+13710,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 13, still under warranty?",warranty_repair_request,False
+13720,"@AppleSupport want to book a repair for my iPhone 13, nearest store is always fully booked",warranty_repair_request,False
+13730,"@AppleSupport want to book a repair for my Apple Watch, nearest store is always fully booked",warranty_repair_request,False
+13740,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Pro, still under warranty?",warranty_repair_request,False
+13750,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 13, still under warranty?",warranty_repair_request,False
+13760,"@AppleSupport want to book a repair for my iPhone SE, nearest store is always fully booked",warranty_repair_request,False
+13770,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13780,"@AppleSupport is my iPad Air still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False
+13790,"@AppleSupport want to book a repair for my iPad Pro, nearest store is always fully booked",warranty_repair_request,False
+13800,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13810,"@AppleSupport is my iPad Air still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False
+13820,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13830,"@AppleSupport is my iPhone 15 still covered under applecare, bought it a year ago",warranty_repair_request,False
+13840,"@AppleSupport want to book a repair for my Apple Watch, nearest store is always fully booked i want to speak to an actual human being, not a bot",warranty_repair_request,True
+13850,"@AppleSupport want to book a repair for my iPad Air, nearest store is always fully booked",warranty_repair_request,False
+13860,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13870,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13880,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying my lawyer will be in touch if this isn't resolved today",warranty_repair_request,True
+13890,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone SE, still under warranty?",warranty_repair_request,False
+13900,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13910,"@AppleSupport is my iPhone 13 still covered under applecare, bought it a year ago",warranty_repair_request,False
+13920,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13930,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Pro, still under warranty?",warranty_repair_request,False
+13940,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13950,"@AppleSupport want to book a repair for my iPad Air, nearest store is always fully booked",warranty_repair_request,False
+13960,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+13970,"@AppleSupport is my iPhone 15 still covered under applecare, bought it last month",warranty_repair_request,False
+13980,"@AppleSupport is my MacBook Air still covered under applecare, bought it 2 years ago",warranty_repair_request,False
+13990,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+14000,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+14010,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone SE, still under warranty?",warranty_repair_request,False
+14020,"@AppleSupport is my iPhone 15 still covered under applecare, bought it 6 months ago this is the third time im contacting you about this, absolutely done",warranty_repair_request,True
+14030,"@AppleSupport want to book a repair for my iPhone SE, nearest store is always fully booked i'm going to leave apple over this, genuinely furious",warranty_repair_request,True
+14040,"@AppleSupport want to book a repair for my iPhone 15, nearest store is always fully booked my lawyer will be in touch if this isn't resolved today",warranty_repair_request,True
+14050,"@AppleSupport want to book a repair for my Apple Watch, nearest store is always fully booked",warranty_repair_request,False
+14060,"@AppleSupport is my iPhone 15 still covered under applecare, bought it 2 years ago i want to speak to an actual human being, not a bot",warranty_repair_request,True
+14070,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Air, still under warranty?",warranty_repair_request,False
+14080,"@AppleSupport want to book a repair for my iPad Air, nearest store is always fully booked",warranty_repair_request,False
+14090,"@AppleSupport is my iPad Air still covered under applecare, bought it last month",warranty_repair_request,False
+14100,"@AppleSupport want to book a repair for my iPhone 13, nearest store is always fully booked",warranty_repair_request,False
+14110,"@AppleSupport is my iPhone 14 still covered under applecare, bought it 6 months ago reported this to consumer protection already",warranty_repair_request,True
+14120,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+14130,"@AppleSupport want to book a repair for my iPhone 14, nearest store is always fully booked this is the third time im contacting you about this, absolutely done",warranty_repair_request,True
+14140,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+14150,"@AppleSupport want to book a repair for my iPhone 14, nearest store is always fully booked",warranty_repair_request,False
+14160,"@AppleSupport want to book a repair for my iPad Pro, nearest store is always fully booked",warranty_repair_request,False
+14170,"@AppleSupport is my iPhone 14 still covered under applecare, bought it 6 months ago",warranty_repair_request,False
+14180,"@AppleSupport is my iPhone 14 still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False
+14190,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 14, still under warranty?",warranty_repair_request,False
+14200,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Pro, still under warranty? reported this to consumer protection already",warranty_repair_request,True
+14210,"@AppleSupport want to book a repair for my iPhone 14, nearest store is always fully booked",warranty_repair_request,False
+14220,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 14, still under warranty? i want to speak to an actual human being, not a bot",warranty_repair_request,True
+14230,"@AppleSupport is my MacBook Air still covered under applecare, bought it 2 years ago",warranty_repair_request,False
+14240,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Pro, still under warranty?",warranty_repair_request,False
+14250,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+14260,"@AppleSupport want to book a repair for my iPhone 14, nearest store is always fully booked",warranty_repair_request,False
+14270,"@AppleSupport is my iPhone SE still covered under applecare, bought it 6 months ago",warranty_repair_request,False
+14280,"@AppleSupport want to book a repair for my Apple Watch, nearest store is always fully booked",warranty_repair_request,False
+14290,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Air, still under warranty?",warranty_repair_request,False
+14300,"@AppleSupport want to book a repair for my iPhone SE, nearest store is always fully booked i'm going to leave apple over this, genuinely furious",warranty_repair_request,True
+14310,"@AppleSupport want to book a repair for my MacBook Air, nearest store is always fully booked",warranty_repair_request,False
+14320,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Pro, still under warranty?",warranty_repair_request,False
+14330,"@AppleSupport is my MacBook Air still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False
+14340,"@AppleSupport is my iPhone 15 still covered under applecare, bought it 6 months ago",warranty_repair_request,False
+14350,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying i want to speak to an actual human being, not a bot",warranty_repair_request,True
+14360,"@AppleSupport want to book a repair for my iPhone SE, nearest store is always fully booked",warranty_repair_request,False
+14370,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone SE, still under warranty?",warranty_repair_request,False
+14380,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying i want to speak to an actual human being, not a bot",warranty_repair_request,True
+14390,"@AppleSupport want to book a repair for my iPhone 15, nearest store is always fully booked",warranty_repair_request,False
+14400,"@AppleSupport want to book a repair for my iPad Pro, nearest store is always fully booked",warranty_repair_request,False
+14410,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying reported this to consumer protection already",warranty_repair_request,True
+14420,"@AppleSupport want to book a repair for my iPhone 15, nearest store is always fully booked",warranty_repair_request,False
+14430,"@AppleSupport want to book a repair for my iPhone 13, nearest store is always fully booked",warranty_repair_request,False
+14440,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying i want to speak to an actual human being, not a bot",warranty_repair_request,True
+14450,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False
+14460,"@AppleSupport want to book a repair for my iPhone 13, nearest store is always fully booked",warranty_repair_request,False
+14470,"@AppleSupport want to book a repair for my Apple Watch, nearest store is always fully booked",warranty_repair_request,False
+14480,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 13, still under warranty?",warranty_repair_request,False
+14490,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 14, still under warranty?",warranty_repair_request,False
+14500,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14510,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+14520,@AppleSupport why was i charged $2.99 for an app i never downloaded,billing_subscription,False
+14530,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+14540,@AppleSupport why was i charged $29.99 for an app i never downloaded,billing_subscription,False
+14550,@AppleSupport why was i charged $14.99 for an app i never downloaded,billing_subscription,False
+14560,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14570,"@AppleSupport got charged twice for apple music this month, need a refund i'm going to leave apple over this, genuinely furious",billing_subscription,True
+14580,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False
+14590,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14600,@AppleSupport why was i charged $29.99 for an app i never downloaded,billing_subscription,False
+14610,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14620,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+14630,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14640,@AppleSupport why was i charged $2.99 for an app i never downloaded,billing_subscription,False
+14650,@AppleSupport why was i charged $14.99 for an app i never downloaded,billing_subscription,False
+14660,@AppleSupport why was i charged $2.99 for an app i never downloaded,billing_subscription,False
+14670,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+14680,@AppleSupport why was i charged $2.99 for an app i never downloaded,billing_subscription,False
+14690,"@AppleSupport trying to get a refund for an accidental in-app purchase my kid made this is the third time im contacting you about this, absolutely done",billing_subscription,True
+14700,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+14710,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14720,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+14730,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+14740,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+14750,"@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport this is the third time im contacting you about this, absolutely done",billing_subscription,True
+14760,"@AppleSupport got charged twice for apple music this month, need a refund this is the third time im contacting you about this, absolutely done",billing_subscription,True
+14770,"@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport this is the third time im contacting you about this, absolutely done",billing_subscription,True
+14780,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14790,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+14800,"@AppleSupport got charged twice for apple music this month, need a refund i want to speak to an actual human being, not a bot",billing_subscription,True
+14810,@AppleSupport why was i charged $14.99 for an app i never downloaded,billing_subscription,False
+14820,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14830,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+14840,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14850,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False
+14860,@AppleSupport why was i charged $2.99 for an app i never downloaded,billing_subscription,False
+14870,"@AppleSupport why was i charged $9.99 for an app i never downloaded i want to speak to an actual human being, not a bot",billing_subscription,True
+14880,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False
+14890,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+14900,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+14910,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+14920,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14930,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+14940,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14950,@AppleSupport why was i charged $9.99 for an app i never downloaded my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+14960,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False
+14970,@AppleSupport why was i charged $2.99 for an app i never downloaded,billing_subscription,False
+14980,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+14990,@AppleSupport why was i charged $14.99 for an app i never downloaded,billing_subscription,False
+15000,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15010,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15020,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15030,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15040,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+15050,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+15060,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15070,"@AppleSupport trying to get a refund for an accidental in-app purchase my kid made i want to speak to an actual human being, not a bot",billing_subscription,True
+15080,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15090,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15100,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15110,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+15120,@AppleSupport why was i charged $29.99 for an app i never downloaded my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+15130,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15140,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15150,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15160,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+15170,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15180,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport reported this to consumer protection already,billing_subscription,True
+15190,"@AppleSupport why was i charged $29.99 for an app i never downloaded i'm going to leave apple over this, genuinely furious",billing_subscription,True
+15200,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False
+15210,@AppleSupport why was i charged $14.99 for an app i never downloaded,billing_subscription,False
+15220,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+15230,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False
+15240,@AppleSupport why was i charged $29.99 for an app i never downloaded my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+15250,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15260,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15270,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15280,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15290,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15300,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15310,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made my lawyer will be in touch if this isn't resolved today,billing_subscription,True
+15320,"@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport this is the third time im contacting you about this, absolutely done",billing_subscription,True
+15330,@AppleSupport why was i charged $14.99 for an app i never downloaded,billing_subscription,False
+15340,@AppleSupport why was i charged $14.99 for an app i never downloaded reported this to consumer protection already,billing_subscription,True
+15350,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15360,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False
+15370,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False
+15380,"@AppleSupport trying to get a refund for an accidental in-app purchase my kid made i'm going to leave apple over this, genuinely furious",billing_subscription,True
+15390,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False
+15400,"@AppleSupport whats the best way to back up my iPad Pro before i sell it this is the third time im contacting you about this, absolutely done",general_howto,True
+15410,@AppleSupport how do you turn off those annoying notification previews on iPad Air reported this to consumer protection already,general_howto,True
+15420,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False
+15430,@AppleSupport is there a way to see how much storage im using on MacBook Air,general_howto,False
+15440,@AppleSupport how do i transfer photos from my old iPhone 14 to my new one,general_howto,False
+15450,@AppleSupport is there a way to see how much storage im using on iPhone SE,general_howto,False
+15460,@AppleSupport how do i transfer photos from my old iPhone SE to my new one reported this to consumer protection already,general_howto,True
+15470,@AppleSupport how do i transfer photos from my old iPad Air to my new one,general_howto,False
+15480,@AppleSupport how do i transfer photos from my old iPhone 13 to my new one,general_howto,False
+15490,@AppleSupport whats the best way to back up my iPhone 15 before i sell it,general_howto,False
+15500,@AppleSupport is there a way to see how much storage im using on iPhone SE,general_howto,False
+15510,@AppleSupport is there a way to see how much storage im using on iPad Air,general_howto,False
+15520,@AppleSupport how do you turn off those annoying notification previews on iPad Pro,general_howto,False
+15530,@AppleSupport how do you turn off those annoying notification previews on MacBook Air,general_howto,False
+15540,@AppleSupport is there a way to see how much storage im using on MacBook Air,general_howto,False
+15550,@AppleSupport how do you turn off those annoying notification previews on iPad Air,general_howto,False
+15560,@AppleSupport how do i transfer photos from my old Apple Watch to my new one,general_howto,False
+15570,@AppleSupport how do you turn off those annoying notification previews on iPad Air,general_howto,False
+15580,@AppleSupport how do you turn off those annoying notification previews on iPhone 13,general_howto,False
+15590,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+15600,@AppleSupport how do i transfer photos from my old iPhone 14 to my new one,general_howto,False
+15610,@AppleSupport how do i transfer photos from my old iPad Pro to my new one,general_howto,False
+15620,@AppleSupport whats the best way to back up my MacBook Air before i sell it,general_howto,False
+15630,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+15640,@AppleSupport how do i transfer photos from my old iPhone 13 to my new one my lawyer will be in touch if this isn't resolved today,general_howto,True
+15650,@AppleSupport how do you turn off those annoying notification previews on MacBook Air,general_howto,False
+15660,@AppleSupport how do i transfer photos from my old Apple Watch to my new one,general_howto,False
+15670,@AppleSupport how do i transfer photos from my old iPhone 15 to my new one,general_howto,False
+15680,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False
+15690,@AppleSupport is there a way to see how much storage im using on iPad Pro,general_howto,False
+15700,"@AppleSupport is there a way to see how much storage im using on Apple Watch this is the third time im contacting you about this, absolutely done",general_howto,True
+15710,@AppleSupport is there a way to see how much storage im using on iPad Pro,general_howto,False
+15720,@AppleSupport is there a way to see how much storage im using on iPhone 14,general_howto,False
+15730,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+15740,@AppleSupport is there a way to see how much storage im using on MacBook Air,general_howto,False
+15750,@AppleSupport is there a way to see how much storage im using on Apple Watch,general_howto,False
+15760,@AppleSupport is there a way to see how much storage im using on iPad Pro,general_howto,False
+15770,@AppleSupport whats the best way to back up my iPhone SE before i sell it,general_howto,False
+15780,@AppleSupport is there a way to see how much storage im using on iPad Pro,general_howto,False
+15790,@AppleSupport how do you turn off those annoying notification previews on MacBook Air,general_howto,False
+15800,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+15810,@AppleSupport how do i transfer photos from my old iPhone 15 to my new one,general_howto,False
+15820,@AppleSupport is there a way to see how much storage im using on Apple Watch,general_howto,False
+15830,@AppleSupport whats the best way to back up my iPhone SE before i sell it,general_howto,False
+15840,"@AppleSupport whats the best way to back up my iPhone 14 before i sell it i'm going to leave apple over this, genuinely furious",general_howto,True
+15850,@AppleSupport how do i transfer photos from my old iPad Air to my new one,general_howto,False
+15860,@AppleSupport is there a way to see how much storage im using on iPad Pro,general_howto,False
+15870,@AppleSupport how do you turn off those annoying notification previews on iPhone 14,general_howto,False
+15880,@AppleSupport is there a way to see how much storage im using on iPhone 13 my lawyer will be in touch if this isn't resolved today,general_howto,True
+15890,@AppleSupport how do i transfer photos from my old iPhone 14 to my new one my lawyer will be in touch if this isn't resolved today,general_howto,True
+15900,@AppleSupport how do i transfer photos from my old iPhone 15 to my new one,general_howto,False
+15910,@AppleSupport whats the best way to back up my iPad Air before i sell it,general_howto,False
+15920,@AppleSupport is there a way to see how much storage im using on MacBook Air,general_howto,False
+15930,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+15940,@AppleSupport how do i transfer photos from my old iPhone 15 to my new one,general_howto,False
+15950,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False
+15960,@AppleSupport is there a way to see how much storage im using on MacBook Air,general_howto,False
+15970,@AppleSupport how do you turn off those annoying notification previews on MacBook Air reported this to consumer protection already,general_howto,True
+15980,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+15990,@AppleSupport whats the best way to back up my iPhone 13 before i sell it,general_howto,False
+16000,"@AppleSupport whats the best way to back up my iPhone SE before i sell it i'm going to leave apple over this, genuinely furious",general_howto,True
+16010,@AppleSupport how do you turn off those annoying notification previews on iPad Air,general_howto,False
+16020,@AppleSupport how do you turn off those annoying notification previews on Apple Watch,general_howto,False
+16030,@AppleSupport is there a way to see how much storage im using on MacBook Air,general_howto,False
+16040,@AppleSupport how do i transfer photos from my old iPad Pro to my new one,general_howto,False
+16050,@AppleSupport is there a way to see how much storage im using on iPhone 15,general_howto,False
+16060,@AppleSupport whats the best way to back up my iPad Pro before i sell it reported this to consumer protection already,general_howto,True
+16070,"@AppleSupport how do i transfer photos from my old Apple Watch to my new one i'm going to leave apple over this, genuinely furious",general_howto,True
+16080,@AppleSupport whats the best way to back up my iPad Pro before i sell it,general_howto,False
+16090,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False
+16100,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+16110,@AppleSupport is there a way to see how much storage im using on iPhone SE,general_howto,False
+16120,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False
+16130,@AppleSupport how do you turn off those annoying notification previews on iPhone SE,general_howto,False
+16140,@AppleSupport is there a way to see how much storage im using on iPhone 14,general_howto,False
+16150,@AppleSupport is there a way to see how much storage im using on iPhone 14,general_howto,False
+16160,@AppleSupport how do you turn off those annoying notification previews on iPhone 13 my lawyer will be in touch if this isn't resolved today,general_howto,True
+16170,@AppleSupport is there a way to see how much storage im using on iPhone 14,general_howto,False
+16180,@AppleSupport how do i transfer photos from my old iPhone 14 to my new one,general_howto,False
+16190,@AppleSupport whats the best way to back up my MacBook Air before i sell it,general_howto,False
+16200,@AppleSupport how do you turn off those annoying notification previews on iPhone 15 my lawyer will be in touch if this isn't resolved today,general_howto,True
+16210,@AppleSupport how do i transfer photos from my old iPhone 15 to my new one,general_howto,False
+16220,@AppleSupport how do i transfer photos from my old iPhone 13 to my new one,general_howto,False
+16230,@AppleSupport how do you turn off those annoying notification previews on iPad Pro,general_howto,False
+16240,@AppleSupport is there a way to see how much storage im using on iPhone 13,general_howto,False
+16250,@AppleSupport how do you turn off those annoying notification previews on iPhone 14,general_howto,False
+16260,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False
+16270,@AppleSupport how do i transfer photos from my old Apple Watch to my new one my lawyer will be in touch if this isn't resolved today,general_howto,True
+16280,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False
+16290,@AppleSupport is there a way to see how much storage im using on Apple Watch,general_howto,False

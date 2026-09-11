@@ -1,0 +1,197 @@
+tweet_id,text,intent,escalate,escalate_reason,predicted_intent,confidence
+10390,"@AppleSupport iPhone 15 won't hold a charge anymore, had it 2 years ago only",battery_performance,False,,battery_performance,0.8882317653921848
+12810,"@AppleSupport cant sign into icloud on my iPhone 14, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9341787103485296
+12820,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False,,account_login_icloud,0.9713398130489111
+14410,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying reported this to consumer protection already",warranty_repair_request,True,regulatory complaint threat,warranty_repair_request,0.8669431670910033
+15840,"@AppleSupport whats the best way to back up my iPhone 14 before i sell it i'm going to leave apple over this, genuinely furious",general_howto,True,high-severity sentiment / churn risk,general_howto,0.795586570034435
+12500,"@AppleSupport dropped my iPad Air in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.943491709384584
+11230,@AppleSupport after updating iPhone 14 to 18.0 apps keep crashing constantly,software_update_issue,False,,software_update_issue,0.9332031695824868
+15700,"@AppleSupport is there a way to see how much storage im using on Apple Watch this is the third time im contacting you about this, absolutely done",general_howto,True,repeated unresolved contact,general_howto,0.6416316010870312
+13260,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False,,account_login_icloud,0.9466547033400241
+13400,"@AppleSupport cant sign into icloud on my MacBook Air, keeps rejecting my password even after reset i want to speak to an actual human being, not a bot",account_login_icloud,True,explicit request for human agent,account_login_icloud,0.785852310842441
+11010,@AppleSupport after updating iPhone 15 to 18.1 apps keep crashing constantly,battery_performance,False,,software_update_issue,0.9349799944158455
+13090,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False,,account_login_icloud,0.9466547033400241
+12350,"@AppleSupport iPad Pro died and now wont charge or turn on, tried different cables",device_not_turning_on,False,,device_not_turning_on,0.9497993097064954
+13950,"@AppleSupport want to book a repair for my iPad Air, nearest store is always fully booked",warranty_repair_request,False,,warranty_repair_request,0.9438672523677244
+12290,@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since,device_not_turning_on,False,,device_not_turning_on,0.9562023756849187
+11300,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False,,software_update_issue,0.9205390410578319
+15260,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False,,billing_subscription,0.9385390089409184
+10810,"@AppleSupport my iPhone 15 battery is dying so fast after the update, its unusable now i'm going to leave apple over this, genuinely furious",battery_performance,True,high-severity sentiment / churn risk,battery_performance,0.7767155316892582
+13720,"@AppleSupport want to book a repair for my iPhone 13, nearest store is always fully booked",warranty_repair_request,False,,warranty_repair_request,0.9475586837619124
+15580,@AppleSupport how do you turn off those annoying notification previews on iPhone 13,general_howto,False,,general_howto,0.9358179222762121
+11900,"@AppleSupport my iPhone 15 won't turn on at all, screen is completely black",device_not_turning_on,False,,device_not_turning_on,0.9273490307059228
+11520,@AppleSupport lost all my photos after the 18.0 update??? this is insane,software_update_issue,False,,software_update_issue,0.8772519908449242
+12700,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False,,account_login_icloud,0.9713398130489111
+16210,@AppleSupport how do i transfer photos from my old iPhone 15 to my new one,general_howto,False,,general_howto,0.9566270947740936
+12060,@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since,device_not_turning_on,False,,device_not_turning_on,0.9562023756849187
+14090,"@AppleSupport is my iPad Air still covered under applecare, bought it last month",warranty_repair_request,False,,warranty_repair_request,0.9235500923227279
+11020,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False,,software_update_issue,0.9205390410578319
+16100,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False,,general_howto,0.9617637769190529
+10560,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my Apple Watch, help",battery_performance,False,,battery_performance,0.9281184493330946
+15950,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False,,general_howto,0.9522843955548118
+10300,@AppleSupport is anyone else's iPad Air battery health tanking after ios 18.1? mine dropped to 73%,battery_performance,False,,battery_performance,0.9452511186770148
+12740,"@AppleSupport cant sign into icloud on my Apple Watch, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9463130805473655
+10620,"@AppleSupport battery percentage jumps around randomly on my iPad Pro, one sec its 40 next its 12",battery_performance,False,,battery_performance,0.9278924934499329
+11120,"@AppleSupport update has been 'preparing' for 3 hours now on my MacBook Air, is this normal",software_update_issue,False,,software_update_issue,0.9286686325389186
+12130,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.9491264205466742
+10490,"@AppleSupport iPhone SE won't hold a charge anymore, had it last month only",battery_performance,False,,battery_performance,0.8590688627517804
+13000,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False,,account_login_icloud,0.9713398130489111
+16070,"@AppleSupport how do i transfer photos from my old Apple Watch to my new one i'm going to leave apple over this, genuinely furious",general_howto,True,high-severity sentiment / churn risk,general_howto,0.8135362983372739
+14600,@AppleSupport why was i charged $29.99 for an app i never downloaded,billing_subscription,False,,billing_subscription,0.9668710361717759
+10940,"@AppleSupport ios 17.5.1 update bricked my iPhone 14, stuck on apple logo",software_update_issue,False,,software_update_issue,0.9425210074348997
+15160,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False,,billing_subscription,0.9486920132238392
+14760,"@AppleSupport got charged twice for apple music this month, need a refund this is the third time im contacting you about this, absolutely done",billing_subscription,True,repeated unresolved contact,billing_subscription,0.837153853367958
+11390,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 14, is this normal",software_update_issue,False,,software_update_issue,0.9196347456653127
+10550,"@AppleSupport battery percentage jumps around randomly on my iPhone 13, one sec its 40 next its 12",battery_performance,False,,battery_performance,0.9255664541471837
+14780,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False,,billing_subscription,0.9486920132238392
+15170,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False,,billing_subscription,0.9385390089409184
+14220,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 14, still under warranty? i want to speak to an actual human being, not a bot",warranty_repair_request,True,explicit request for human agent,warranty_repair_request,0.909766812228241
+13990,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False,,warranty_repair_request,0.9438972903096228
+14620,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made my lawyer will be in touch if this isn't resolved today,billing_subscription,True,legal threat mentioned,billing_subscription,0.8939542014665595
+15050,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False,,billing_subscription,0.9486920132238392
+14300,"@AppleSupport want to book a repair for my iPhone SE, nearest store is always fully booked i'm going to leave apple over this, genuinely furious",warranty_repair_request,True,high-severity sentiment / churn risk,warranty_repair_request,0.8738484771706126
+11250,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone SE, is this normal my lawyer will be in touch if this isn't resolved today",software_update_issue,True,legal threat mentioned,software_update_issue,0.8302276475217248
+12080,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.9491264205466742
+13640,"@AppleSupport is my iPad Air still covered under applecare, bought it 6 months ago",warranty_repair_request,False,,warranty_repair_request,0.942616961919552
+13560,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9267802900185176
+15190,"@AppleSupport why was i charged $29.99 for an app i never downloaded i'm going to leave apple over this, genuinely furious",billing_subscription,True,high-severity sentiment / churn risk,billing_subscription,0.8777984189333791
+14850,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False,,billing_subscription,0.9666850224634872
+12980,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9267802900185176
+10120,"@AppleSupport iPhone 14 won't hold a charge anymore, had it 2 years ago only",battery_performance,False,,battery_performance,0.8960656144045765
+10860,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help i'm going to leave apple over this, genuinely furious",battery_performance,True,high-severity sentiment / churn risk,battery_performance,0.7825718526958132
+10700,"@AppleSupport my iPad Air battery is dying so fast after the update, its unusable now",battery_performance,False,,battery_performance,0.9407257254341556
+12490,"@AppleSupport my iPad Pro won't turn on at all, screen is completely black",device_not_turning_on,False,,device_not_turning_on,0.9194036409376949
+14540,@AppleSupport why was i charged $29.99 for an app i never downloaded,billing_subscription,False,,billing_subscription,0.9668710361717759
+12960,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False,,account_login_icloud,0.9466547033400241
+15500,@AppleSupport is there a way to see how much storage im using on iPhone SE,general_howto,False,,general_howto,0.9488366297372365
+14160,"@AppleSupport want to book a repair for my iPad Pro, nearest store is always fully booked",warranty_repair_request,False,,warranty_repair_request,0.9445765527738781
+14040,"@AppleSupport want to book a repair for my iPhone 15, nearest store is always fully booked my lawyer will be in touch if this isn't resolved today",warranty_repair_request,True,legal threat mentioned,warranty_repair_request,0.7568820570826174
+11910,@AppleSupport screen went black mid call and iPhone SE hasn't turned back on since,device_not_turning_on,False,,device_not_turning_on,0.9535472235059782
+16160,@AppleSupport how do you turn off those annoying notification previews on iPhone 13 my lawyer will be in touch if this isn't resolved today,general_howto,True,legal threat mentioned,general_howto,0.8158838553334069
+13030,"@AppleSupport cant sign into icloud on my iPhone 15, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.931076466551405
+14680,@AppleSupport why was i charged $2.99 for an app i never downloaded,billing_subscription,False,,billing_subscription,0.9666850224634872
+12420,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black reported this to consumer protection already",device_not_turning_on,True,regulatory complaint threat,device_not_turning_on,0.8586693597558973
+12800,"@AppleSupport cant sign into icloud on my Apple Watch, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9463130805473655
+10110,"@AppleSupport my iPhone SE battery is dying so fast after the update, its unusable now",battery_performance,False,,battery_performance,0.9300330532110485
+13370,"@AppleSupport locked out of my apple id, it says my account is disabled i want to speak to an actual human being, not a bot",account_login_icloud,True,explicit request for human agent,account_login_icloud,0.7840696663576764
+12150,"@AppleSupport iPhone 14 died and now wont charge or turn on, tried different cables",device_not_turning_on,False,,device_not_turning_on,0.9622904011874102
+14330,"@AppleSupport is my MacBook Air still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False,,warranty_repair_request,0.9236551295993661
+12470,"@AppleSupport dropped my Apple Watch in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.9455233087271382
+10040,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 14, help this is the third time im contacting you about this, absolutely done",battery_performance,True,repeated unresolved contact,battery_performance,0.7667343396830963
+14720,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False,,billing_subscription,0.9385390089409184
+11590,@AppleSupport lost all my photos after the 18.1 update??? this is insane,software_update_issue,False,,software_update_issue,0.8772519908449242
+13460,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9292790085631593
+13700,"@AppleSupport how much would it cost to fix a cracked screen on my MacBook Air, still under warranty?",warranty_repair_request,False,,warranty_repair_request,0.9272028088467434
+11660,"@AppleSupport cant update to ios 17.4, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False,,software_update_issue,0.9484081534739314
+11080,"@AppleSupport ios 17.2 update bricked my iPhone 14, stuck on apple logo",software_update_issue,False,,software_update_issue,0.9425210074348997
+15890,@AppleSupport how do i transfer photos from my old iPhone 14 to my new one my lawyer will be in touch if this isn't resolved today,general_howto,True,legal threat mentioned,general_howto,0.8419205908549617
+15150,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False,,billing_subscription,0.9385390089409184
+15730,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False,,general_howto,0.9617637769190529
+11600,"@AppleSupport cant update to ios 17.4, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False,,software_update_issue,0.9484081534739314
+13710,"@AppleSupport how much would it cost to fix a cracked screen on my iPhone 13, still under warranty?",warranty_repair_request,False,,warranty_repair_request,0.9348520102734827
+10280,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help this is the third time im contacting you about this, absolutely done",battery_performance,True,repeated unresolved contact,battery_performance,0.764939693343676
+10650,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Air, help",battery_performance,False,,battery_performance,0.9411208213640688
+14940,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False,,billing_subscription,0.9486920132238392
+10760,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone 14, help",battery_performance,False,,battery_performance,0.9357305448844149
+11290,"@AppleSupport cant update to ios 17.5.1, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False,,software_update_issue,0.9484081534739314
+12880,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False,,account_login_icloud,0.9466547033400241
+13320,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False,,account_login_icloud,0.9713398130489111
+11920,"@AppleSupport dropped my MacBook Air in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.9413080464675206
+15520,@AppleSupport how do you turn off those annoying notification previews on iPad Pro,general_howto,False,,general_howto,0.9356872458175531
+15060,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False,,billing_subscription,0.9576829001196066
+15230,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False,,billing_subscription,0.9666850224634872
+15510,@AppleSupport is there a way to see how much storage im using on iPad Air,general_howto,False,,general_howto,0.9435946105647356
+13510,@AppleSupport two factor code never arrives when i try to log into my apple id my lawyer will be in touch if this isn't resolved today,account_login_icloud,True,legal threat mentioned,account_login_icloud,0.8796870016266072
+12200,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black",device_not_turning_on,False,,device_not_turning_on,0.9386849024216836
+13050,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset i want to speak to an actual human being, not a bot",battery_performance,True,explicit request for human agent,account_login_icloud,0.7759593464029844
+10670,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Air, help",battery_performance,False,,battery_performance,0.9411208213640688
+11800,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables",device_not_turning_on,False,,device_not_turning_on,0.9617008077585109
+14460,"@AppleSupport want to book a repair for my iPhone 13, nearest store is always fully booked",warranty_repair_request,False,,warranty_repair_request,0.9475586837619124
+16130,@AppleSupport how do you turn off those annoying notification previews on iPhone SE,general_howto,False,,general_howto,0.9416874404379545
+13140,@AppleSupport someone else is signed into my icloud and i cant remove them from my iPhone SE reported this to consumer protection already,account_login_icloud,True,regulatory complaint threat,account_login_icloud,0.8518387793029836
+16260,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False,,general_howto,0.9617637769190529
+10000,@AppleSupport is anyone else's iPhone 15 battery health tanking after ios 18.0? mine dropped to 80%,battery_performance,False,,battery_performance,0.9341122399942429
+10220,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my MacBook Air, help",battery_performance,False,,battery_performance,0.9361650027711781
+10350,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPad Air, help",battery_performance,False,,battery_performance,0.9411208213640688
+11200,@AppleSupport lost all my photos after the 17.2 update??? this is insane,software_update_issue,False,,software_update_issue,0.8759332278920469
+14900,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made,billing_subscription,False,,billing_subscription,0.9576829001196066
+15790,@AppleSupport how do you turn off those annoying notification previews on MacBook Air,general_howto,False,,general_howto,0.9371527047015802
+14360,"@AppleSupport want to book a repair for my iPhone SE, nearest store is always fully booked",warranty_repair_request,False,,warranty_repair_request,0.9466771872917398
+10900,@AppleSupport after updating iPhone 14 to 18.1 apps keep crashing constantly,software_update_issue,False,,software_update_issue,0.9332031695824868
+12450,"@AppleSupport iPhone SE died and now wont charge or turn on, tried different cables",device_not_turning_on,False,,device_not_turning_on,0.9617008077585109
+11980,"@AppleSupport my iPhone 13 won't turn on at all, screen is completely black",device_not_turning_on,False,,device_not_turning_on,0.9386849024216836
+15800,@AppleSupport how do i transfer photos from my old iPhone SE to my new one,general_howto,False,,general_howto,0.9617637769190529
+11760,"@AppleSupport ios 17.2 update bricked my MacBook Air, stuck on apple logo",software_update_issue,False,,software_update_issue,0.9435167528541988
+14990,@AppleSupport why was i charged $14.99 for an app i never downloaded,billing_subscription,False,,billing_subscription,0.9558852791653338
+15200,@AppleSupport why was i charged $9.99 for an app i never downloaded,billing_subscription,False,,billing_subscription,0.9666850224634872
+16090,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False,,general_howto,0.9522843955548118
+10180,"@AppleSupport battery percentage jumps around randomly on my iPhone 13, one sec its 40 next its 12 i want to speak to an actual human being, not a bot",billing_subscription,True,explicit request for human agent,battery_performance,0.8591684912384555
+14000,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False,,warranty_repair_request,0.9438972903096228
+14150,"@AppleSupport want to book a repair for my iPhone 14, nearest store is always fully booked",warranty_repair_request,False,,warranty_repair_request,0.955629812825774
+10100,"@AppleSupport is anyone else's iPhone SE battery health tanking after ios 17.5.1? mine dropped to 82% i'm going to leave apple over this, genuinely furious",battery_performance,True,high-severity sentiment / churn risk,battery_performance,0.7924880503268787
+13860,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False,,warranty_repair_request,0.9438972903096228
+10330,@AppleSupport is anyone else's iPhone SE battery health tanking after ios 17.2? mine dropped to 77%,battery_performance,False,,battery_performance,0.9436918372574034
+11160,"@AppleSupport update has been 'preparing' for 3 hours now on my iPhone 15, is this normal",software_update_issue,False,,software_update_issue,0.9205390410578319
+10730,"@AppleSupport battery percentage jumps around randomly on my iPad Pro, one sec its 40 next its 12",battery_performance,False,,battery_performance,0.9278924934499329
+12360,"@AppleSupport iPad Pro died and now wont charge or turn on, tried different cables",device_not_turning_on,False,,device_not_turning_on,0.9497993097064954
+15120,@AppleSupport why was i charged $29.99 for an app i never downloaded my lawyer will be in touch if this isn't resolved today,billing_subscription,True,legal threat mentioned,billing_subscription,0.8761587376726907
+14290,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Air, still under warranty?",warranty_repair_request,False,,warranty_repair_request,0.9340277438783343
+14830,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False,,billing_subscription,0.9385390089409184
+11840,"@AppleSupport dropped my iPad Air in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.943491709384584
+15960,@AppleSupport is there a way to see how much storage im using on MacBook Air,warranty_repair_request,False,,general_howto,0.9441459762272595
+14250,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False,,warranty_repair_request,0.9438972903096228
+15660,@AppleSupport how do i transfer photos from my old Apple Watch to my new one,general_howto,False,,general_howto,0.9414805977238361
+12020,"@AppleSupport my iPhone 14 won't turn on at all, screen is completely black",device_not_turning_on,False,,device_not_turning_on,0.9265857065386489
+12920,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False,,account_login_icloud,0.9713398130489111
+15620,@AppleSupport whats the best way to back up my MacBook Air before i sell it,general_howto,False,,general_howto,0.907124582994942
+11630,"@AppleSupport cant update to ios 17.5.1, keeps saying 'unable to verify update' @AppleSupport",software_update_issue,False,,software_update_issue,0.9484081534739314
+15400,"@AppleSupport whats the best way to back up my iPad Pro before i sell it this is the third time im contacting you about this, absolutely done",general_howto,True,repeated unresolved contact,general_howto,0.6801789868123568
+13190,"@AppleSupport cant sign into icloud on my iPad Air, keeps rejecting my password even after reset",device_not_turning_on,False,,account_login_icloud,0.9267802900185176
+13900,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False,,warranty_repair_request,0.9438972903096228
+10660,@AppleSupport is anyone else's Apple Watch battery health tanking after ios 17.4? mine dropped to 66% reported this to consumer protection already,battery_performance,True,regulatory complaint threat,battery_performance,0.885115222652088
+13930,"@AppleSupport how much would it cost to fix a cracked screen on my iPad Pro, still under warranty?",warranty_repair_request,False,,warranty_repair_request,0.9319727778837638
+10400,"@AppleSupport my MacBook Air battery is dying so fast after the update, its unusable now",billing_subscription,False,,battery_performance,0.9360016810142104
+15440,@AppleSupport how do i transfer photos from my old iPhone 14 to my new one,warranty_repair_request,False,,general_howto,0.9563245616968491
+13880,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying my lawyer will be in touch if this isn't resolved today",warranty_repair_request,True,legal threat mentioned,warranty_repair_request,0.6764845184963303
+10690,"@AppleSupport MacBook Air won't hold a charge anymore, had it 6 months ago only",battery_performance,False,,battery_performance,0.878130591227382
+12610,@AppleSupport screen went black mid call and Apple Watch hasn't turned back on since,device_not_turning_on,False,,device_not_turning_on,0.9519463482327972
+13430,@AppleSupport two factor code never arrives when i try to log into my apple id my lawyer will be in touch if this isn't resolved today,account_login_icloud,True,legal threat mentioned,account_login_icloud,0.8796870016266072
+10440,"@AppleSupport my iPad Air battery is dying so fast after the update, its unusable now my lawyer will be in touch if this isn't resolved today",battery_performance,True,legal threat mentioned,battery_performance,0.7974929895250474
+14800,"@AppleSupport got charged twice for apple music this month, need a refund i want to speak to an actual human being, not a bot",billing_subscription,True,explicit request for human agent,billing_subscription,0.856122677981284
+15750,@AppleSupport is there a way to see how much storage im using on Apple Watch,general_howto,False,,general_howto,0.9182415595282677
+10260,"@AppleSupport @AppleSupport battery drains from 100 to 20 in like 2 hours on my iPhone SE, help",battery_performance,False,,battery_performance,0.9344644468908091
+13350,"@AppleSupport cant sign into icloud on my iPhone 13, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9292790085631593
+14890,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False,,billing_subscription,0.9385390089409184
+14260,"@AppleSupport want to book a repair for my iPhone 14, nearest store is always fully booked",warranty_repair_request,False,,warranty_repair_request,0.955629812825774
+14270,"@AppleSupport is my iPhone SE still covered under applecare, bought it 6 months ago",warranty_repair_request,False,,warranty_repair_request,0.9366026261886193
+11180,@AppleSupport lost all my photos after the 18.1 update??? this is insane,software_update_issue,False,,software_update_issue,0.8772519908449242
+12660,"@AppleSupport dropped my Apple Watch in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.9455233087271382
+12460,"@AppleSupport my MacBook Air won't turn on at all, screen is completely black",account_login_icloud,False,,device_not_turning_on,0.917006727917067
+12530,"@AppleSupport dropped my Apple Watch in water and now it's not responding, please help",device_not_turning_on,False,,device_not_turning_on,0.9455233087271382
+15360,@AppleSupport cancelled my icloud storage plan but still being charged @AppleSupport,billing_subscription,False,,billing_subscription,0.9385390089409184
+12190,@AppleSupport screen went black mid call and iPhone 15 hasn't turned back on since,device_not_turning_on,False,,device_not_turning_on,0.9562023756849187
+15680,@AppleSupport how do i transfer photos from my old MacBook Air to my new one,general_howto,False,,general_howto,0.9522843955548118
+14500,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False,,billing_subscription,0.9486920132238392
+13250,"@AppleSupport locked out of my apple id, it says my account is disabled",account_login_icloud,False,,account_login_icloud,0.9466547033400241
+15310,@AppleSupport trying to get a refund for an accidental in-app purchase my kid made my lawyer will be in touch if this isn't resolved today,billing_subscription,True,legal threat mentioned,billing_subscription,0.8939542014665595
+11710,@AppleSupport after updating iPad Air to 17.2 apps keep crashing constantly,software_update_issue,False,,software_update_issue,0.9313892918599387
+14610,"@AppleSupport got charged twice for apple music this month, need a refund",billing_subscription,False,,billing_subscription,0.9486920132238392
+13360,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False,,account_login_icloud,0.9713398130489111
+11450,"@AppleSupport ios 17.4 update bricked my iPad Air, stuck on apple logo",software_update_issue,False,,software_update_issue,0.9427953339525365
+11570,"@AppleSupport cant update to ios 18.1, keeps saying 'unable to verify update' @AppleSupport my lawyer will be in touch if this isn't resolved today",software_update_issue,True,legal threat mentioned,software_update_issue,0.840358818204763
+12240,"@AppleSupport iPad Air died and now wont charge or turn on, tried different cables",device_not_turning_on,False,,device_not_turning_on,0.9501789919162896
+13600,"@AppleSupport is my iPhone 13 still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False,,warranty_repair_request,0.9325128417968555
+11000,"@AppleSupport update has been 'preparing' for 3 hours now on my Apple Watch, is this normal",software_update_issue,False,,software_update_issue,0.9335842867606557
+11560,"@AppleSupport ios 18.1 update bricked my Apple Watch, stuck on apple logo",software_update_issue,False,,software_update_issue,0.9366249568810073
+16050,@AppleSupport is there a way to see how much storage im using on iPhone 15,general_howto,False,,general_howto,0.9440998364252522
+11340,@AppleSupport after updating MacBook Air to 17.2 apps keep crashing constantly,software_update_issue,False,,software_update_issue,0.9331196048932485
+16060,@AppleSupport whats the best way to back up my iPad Pro before i sell it reported this to consumer protection already,general_howto,True,regulatory complaint threat,general_howto,0.8372830007872027
+13820,"@AppleSupport genius bar keeps rescheduling my repair appointment, so annoying",warranty_repair_request,False,,warranty_repair_request,0.9438972903096228
+12100,"@AppleSupport dropped my iPhone 13 in water and now it's not responding, please help this is the third time im contacting you about this, absolutely done",device_not_turning_on,True,repeated unresolved contact,device_not_turning_on,0.7628813942578403
+11550,@AppleSupport after updating MacBook Air to 18.1 apps keep crashing constantly,software_update_issue,False,,software_update_issue,0.9348006690709797
+13390,@AppleSupport two factor code never arrives when i try to log into my apple id,account_login_icloud,False,,account_login_icloud,0.9713398130489111
+13100,"@AppleSupport cant sign into icloud on my iPhone 14, keeps rejecting my password even after reset",account_login_icloud,False,,account_login_icloud,0.9341787103485296
+13780,"@AppleSupport is my iPad Air still covered under applecare, bought it 3 weeks ago",warranty_repair_request,False,,warranty_repair_request,0.9313077893045473
+16020,@AppleSupport how do you turn off those annoying notification previews on Apple Watch,general_howto,False,,general_howto,0.9095608740893728
+11460,@AppleSupport after updating Apple Watch to 18.1 apps keep crashing constantly reported this to consumer protection already,software_update_issue,True,regulatory complaint threat,software_update_issue,0.8784368810974862
+12560,@AppleSupport screen went black mid call and iPhone 13 hasn't turned back on since,device_not_turning_on,False,,device_not_turning_on,0.9547544002487431
