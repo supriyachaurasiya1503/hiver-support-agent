@@ -19,12 +19,12 @@ tend to be detailed rather than generic "DM us" brush-offs — better
 raw material for grounding replies.
 
 **Dataset: Kaggle `thoughtvector/customer-support-on-twitter`**
-(the real ~3M-row `twcs.csv`, provided by the user). Columns:
+(the real ~3M-row `twcs.csv`, downloaded from Kaggle). Columns:
 `tweet_id, author_id, inbound, created_at, text, response_tweet_id,
 in_response_to_tweet_id`.
 
 An earlier pass of this project was built on a synthetic dataset
-(same schema, generator-created) because the sandbox originally had no
+(same schema, generator-created) because the build environment originally had no
 network path to Kaggle. Once the real file was provided, the entire
 pipeline was rebuilt and re-evaluated against it — synthetic-data code
 is kept in the repo only for reference/fast smoke-testing, and is
