@@ -3,7 +3,7 @@
 Non-obvious decisions made while building this, and why.
 
 1. **Built against synthetic data shaped like the real Kaggle schema,
-   rather than a toy dataset with a different structure.** This sandbox
+   rather than a toy dataset with a different structure.** The build environment
    can't reach kaggle.com/huggingface.co, so the real file was
    unavailable. Rather than build against arbitrary made-up data, the
    generator (`data/generate_sample_data.py`) outputs the exact same
@@ -110,7 +110,7 @@ Non-obvious decisions made while building this, and why.
     stage (ingest, classify, draft, escalate, evaluate) independently
     testable, which is how this was actually built and debugged.
 
-## Real-data pass (after the user uploaded the real Kaggle archive)
+## Real-data pass (after obtaining the real Kaggle archive)
 
 16. **Re-derived the intent taxonomy from a keyword-frequency scan of
     real data, rather than reusing the synthetic taxonomy.** Two
