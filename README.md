@@ -43,7 +43,7 @@ decision_log.md           # 24 non-obvious decisions and why
 
 ## Reproduce the REAL-DATA results (should take < 15 minutes, dataset excluded)
 
-The real dataset (`twcs.csv`, ~500MB) isn't included in this zip —
+The real dataset (`twcs.csv`, ~500MB) isn't included in this repo —
 download it from Kaggle (`thoughtvector/customer-support-on-twitter`)
 first.
 
@@ -130,7 +130,8 @@ Stated plainly rather than left to be discovered:
 - Escalation has no certified precision/recall — real threads have no
   independent "should this escalate" ground truth to measure against.
 - Banking77 (optional secondary dataset) was not used —
-  `huggingface.co` isn't reachable from this sandbox.
+  `huggingface.co` wasn't reachable from the build environment used
+  for this project, and the file wasn't separately obtained.
 - `decide_escalation_with_history()` (multi-turn signal) is implemented
   and unit-tested but not evaluated end-to-end against real thread
   histories.
