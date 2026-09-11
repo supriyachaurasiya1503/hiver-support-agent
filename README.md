@@ -22,7 +22,8 @@ This repo has **two parallel pipelines**:
 ```
 data/
   generate_sample_data.py          # generates synthetic sample (fallback pipeline)
-  real_taxonomy.py → see src/      # (taxonomy lives in src/, not data/)
+build_pairs.py           # builds real customer<->brand pairs (data/real_twcs.csv -> data/real_apple_pairs.csv)
+apply_corrections.py     # applies the hand-verified spot-check corrections to the golden set
 src/
   ingest.py             # loads twcs-schema CSV, reconstructs thread pairs (top_level_only fix)
   real_taxonomy.py       # intent taxonomy + weak labeler, derived from real keyword frequencies
@@ -37,7 +38,7 @@ eval/
   judge_agreement.py / judge_agreement_real.py     # judge-vs-human agreement: synthetic / real
 tests/
   test_agent.py           # pytest suite: escalation rules, taxonomy, ingest threading (17 tests)
-report/report.md          # v2: real-data results, "kaami → fix" table, next steps
+report/report.md          # real-data results, detailed step-by-step methodology, next steps
 decision_log.md           # 24 non-obvious decisions and why
 ```
 
@@ -47,6 +48,10 @@ The real dataset (`twcs.csv`, ~500MB) isn't included in this repo —
 download it from Kaggle (`thoughtvector/customer-support-on-twitter`)
 first.
 
+*(Commands below use `python`; on Mac/Linux this is sometimes `python3`
+instead — use whichever `python --version` / `python3 --version`
+resolves to Python 3.10+.)*
+
 ```bash
 # 1. Install dependencies
 pip install pandas numpy scikit-learn rank_bm25 joblib pytest
@@ -54,31 +59,28 @@ pip install pandas numpy scikit-learn rank_bm25 joblib pytest
 # 2. Place the real dataset at data/real_twcs.csv (twcs.csv from Kaggle, renamed)
 
 # 3. Build the real customer<->brand pairs and run the weak labeler
-python3 -c "
-from src.ingest import load_brand_pairs
-load_brand_pairs('data/real_twcs.csv', 'AppleSupport', top_level_only=True).to_csv('data/real_apple_pairs.csv', index=False)
-"
-python3 -m src.real_taxonomy
+python build_pairs.py
+python -m src.real_taxonomy
 
 # 4. Build the real golden evaluation set (234 examples, weak-labeled +
 #    spot-check corrected — see eval/build_golden_set_real.py docstring)
-python3 -m eval.build_golden_set_real
-python3 -c "from eval.build_golden_set_real import apply_spot_check; apply_spot_check()"
+python -m eval.build_golden_set_real
+python apply_corrections.py
 
 # 5. Train the intent classifier (weak-label trained) and evaluate vs. trivial baseline
-python3 -m src.classify_real
+python -m src.classify_real
 
 # 6. Run the real reply-drafting eval (retrieval relevance + judge)
-python3 -m eval.evaluate_replies_real
+python -m eval.evaluate_replies_real
 
 # 7. Run the escalation manual audit
-python3 -m eval.evaluate_escalation_real
+python -m eval.evaluate_escalation_real
 
 # 8. Run the test suite
-python3 -m pytest tests/ -v
+python -m pytest tests/ -v
 
 # 9. Try the full end-to-end agent on real-shaped example messages
-python3 -m src.pipeline
+python -m src.pipeline
 ```
 
 Expected headline numbers (see `report/report.md` Section 3-4 for full
@@ -97,12 +99,12 @@ not treat these numbers as representative of real performance** — see
 report.md Section 0 and the "kaami → fix" table for why.
 
 ```bash
-python3 data/generate_sample_data.py
-python3 eval/build_golden_set.py
-python3 -m src.classify
-python3 -m eval.evaluate_replies
-python3 -m eval.evaluate_escalation
-python3 -m src.pipeline
+python data/generate_sample_data.py
+python eval/build_golden_set.py
+python -m src.classify
+python -m eval.evaluate_replies
+python -m eval.evaluate_escalation
+python -m src.pipeline
 ```
 
 ## Using the LLM-grounded draft path and real LLM-as-judge
@@ -114,7 +116,7 @@ needed:
 
 ```bash
 export ANTHROPIC_API_KEY=sk-...
-python3 -m eval.evaluate_replies_real
+python -m eval.evaluate_replies_real
 ```
 
 This is the single highest-priority next step per the report — we have
